@@ -1,0 +1,12 @@
+pymupdf
+pillow
+pytesseract
+peft==0.6.0
+bitsandbytes==0.40.2
+trl==0.4.7
+transformers>=4.0.0 
+accelerate>=0.28.0   
+sentence-transformers
+streamlit
+torch
+fitz
